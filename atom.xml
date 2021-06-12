@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>jayrgee&#39;s blog</title>
+  
+  <subtitle>yelling at clouds</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://jayrgee.net/"/>
+  <updated>2021-06-12T16:36:38.890Z</updated>
+  <id>https://jayrgee.net/</id>
+  
+  <author>
+    <name>john gantner</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hail the Funklet</title>
+    <link href="https://jayrgee.net/2021/06/13/hail-the-funklet/"/>
+    <id>https://jayrgee.net/2021/06/13/hail-the-funklet/</id>
+    <published>2021-06-12T16:36:38.000Z</published>
+    <updated>2021-06-12T16:36:38.890Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://funklet.com/" target="_blank" rel="noopener">Funklet</a> is 10 years old.</p><blockquote><p>Developed from a booklet by Jack Stratton, who wrote the articles, this was an early Web Audio API experiment, one of the first web-tech-based drum machines available.</p></blockquote><p>&mdash; <cite>Rob Stenson (designer &amp; developer)<br> <a href="http://web.archive.org/web/20190502075439/http://robstenson.com/" target="_blank" rel="noopener">http://robstenson.com/</a></cite></p><h2 id="2011"><a href="#2011" class="headerlink" title="2011"></a>2011</h2><blockquote><p>I want to make a book about drumming that looks good.  A funky beat is a great design.</p><p>Some great designers:</p><ul><li>Bernard Purdie</li><li>James Gadson</li><li>Herman Roscoe Ernerst III</li><li>Zigaboo</li><li>Roger Hawkins</li><li>Clyde Stubblefield</li></ul></blockquote><p>&mdash; <cite>Jack Stratton, The Funklet: Graphic notations of twenty classic funk beats. June 2011.<br><a href="https://www.kickstarter.com/projects/1461914303/the-funklet" target="_blank" rel="noopener">https://www.kickstarter.com/projects/1461914303/the-funklet</a> </cite> </p><h2 id="2012"><a href="#2012" class="headerlink" title="2012"></a>2012</h2><blockquote><p>One of the best Kickstarter projects I contributed towards in 2011 … was Jack Stratton’s <a href="https://www.kickstarter.com/projects/1461914303/the-funklet?ref=users" target="_blank" rel="noopener">“Funklet: Graphic notations of twenty classic funk beats.”</a></p><p>While the Funklet is now out of print, Stratton has encouraged his backers to pass around the <a href="http://web.archive.org/web/20140813170242/http://www.kempa.com/files/TheFunklet.pdf" target="_blank" rel="noopener">PDF version</a>, and a website presenting interactive versions of roughly half of the beats has been launched at <a href="http://funklet.com/" target="_blank" rel="noopener">Funklet.com</a>.</p></blockquote><p>&mdash; <cite>Adam Kemper. JANUARY 2, 2012<br><a href="http://www.kempa.com/funklet/" target="_blank" rel="noopener">http://www.kempa.com/funklet/</a></cite> </p><hr><blockquote><p>Rob Stenson called and said we should make a website with a sequencer that plays Funklet beats.  I, in a stroke of genius, agreed.</p><p>Behold: <a href="http://funklet.com/" target="_blank" rel="noopener">funklet.com</a> (in chrome)</p><p>I could list all the features here, but that would take upwards of seven bullet points.  Browse around.  Discover!  Be your true self.  Program a beat.  Tweet it or delete it!</p></blockquote><p>&mdash; <cite>Jack Stratton, Mar 16 2012<br><a href="https://www.kickstarter.com/projects/1461914303/the-funklet/posts/190647" target="_blank" rel="noopener">https://www.kickstarter.com/projects/1461914303/the-funklet/posts/190647</a></cite></p><hr><blockquote><p>Funklet is an educational resource.</p></blockquote><p>&mdash; <cite>WHAT IS FUNKLET?<br> <a href="http://funklet.com/about.html" target="_blank" rel="noopener">http://funklet.com/about.html</a></cite></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://funklet.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Funklet&lt;/a&gt; is 10 years old.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Developed from a booklet b
+      
+    
+    </summary>
+    
+    
+      <category term="funklet" scheme="https://jayrgee.net/tags/funklet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>testing 123</title>
+    <link href="https://jayrgee.net/2018/02/05/testing-123/"/>
+    <id>https://jayrgee.net/2018/02/05/testing-123/</id>
+    <published>2018-02-04T23:05:07.000Z</published>
+    <updated>2018-11-05T21:47:04.582Z</updated>
+    
+    <content type="html"><![CDATA[<p>this is a test and won’t last long</p><p>coming soon: actual content</p><p><img src="/images/jayrgee.jpeg" alt="jayrgee"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;this is a test and won’t last long&lt;/p&gt;
+&lt;p&gt;coming soon: actual content&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/jayrgee.jpeg&quot; alt=&quot;jayrgee&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="test" scheme="https://jayrgee.net/tags/test/"/>
+    
+  </entry>
+  
+</feed>
